@@ -7,7 +7,7 @@ Hi there!
 📫 How to reach me: 
                     isaturkoglu.06@gmail.com
                     https://www.linkedin.com/in/isaturkoglu06/
- Pronouns: he/him
+Pronouns: he/him
 
 
 
