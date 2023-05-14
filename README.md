@@ -11,7 +11,7 @@ Pronouns: he/him
 
 Experiences
 
-🔭Knowledge of Java programming language.	
+🔭Knowledge of Java programming language.
 🔭Knowledge in Manual and Automation Testing.
 🔭Knowledge and practice skills in complete Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC).
 🔭Knowledge in Waterfall and Agile Projects, and attended different ceremonies like Sprint Planning meeting, Scrum, Backlog grooming, Sprint Review and Retrospective
